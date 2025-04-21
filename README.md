@@ -31,3 +31,4 @@ tabulate
 
 colorama
 
+pip install requests beautifulsoup4 vnstock tabulate colorama
